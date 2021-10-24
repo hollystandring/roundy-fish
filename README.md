@@ -6,6 +6,6 @@ A clone of the [roundy](https://github.com/nullxception/roundy) prompt for fish 
 - Current user
 - Timestamp
 - Git repo + branch
-- Round
+- Round!
 ## Installation
 To install, just move `fish_prompt.fish` and `fish_right_prompt.fish` to your fish functions directory at `~/.config/fish/functions`
