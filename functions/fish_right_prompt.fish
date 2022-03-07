@@ -10,7 +10,7 @@ function fish_right_prompt
       set_color normal
       set_color -b purple
       set_color -o black
-      printf ' %s' (fish_git_prompt | sed 's|[(),]||g')
+      printf '%s' (fish_git_prompt | sed 's|[(),]||g')
       set_color normal
       set_color purple
     else
