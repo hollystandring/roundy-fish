@@ -1,5 +1,5 @@
 # roundy-fish
-![Screenshot](https://raw.githubusercontent.com/joestandring/roundy-fish/main/screenshot.png)
+![Screenshot](screenshot.png)
 
 A clone of the [roundy](https://github.com/nullxception/roundy) prompt for fish featuring:
 - Exit status
